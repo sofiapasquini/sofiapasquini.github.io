@@ -10,7 +10,7 @@ locale                   : "en-Canada"
 title                    : "My Portfolio"
 title_separator          : "-"
 name                     : &name "Alex Vanderhoeff"
-description              : &description ""
+description              : &description "Computational Seismology MSc. Student at Western University"
 url                      : https://avand56.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avand56/avand56.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alex Vanderhoeff"
   avatar           : 
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Bio"
   location         : "London, Ontario, Canada"
   employer         : "Western University"
   pubmed           : 
