@@ -5,15 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-ES2232: Exploring the Planets
-* Duties for this course included:
-  * Marking assignments, tests, quizzes and labs.
-  * Correspondence with students.
+{% include base_path %}
 
-ES2213: The Dyanamic Earth
-* Duties for this course included:
-  * Creating assignment, midterm, and final exam questions.
-  * Holding office hours to answer questions.
-  * Providing tutorials in MS Excel and MS Word for geophysical data processing and analysis.
-  * leading weekly lab sessions.
-  * Marking assignments and exams.
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
