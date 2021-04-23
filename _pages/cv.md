@@ -28,7 +28,7 @@ Work experience
   * Supervisor: Dr. Secco, Dr. Blamey
 
 * Sept 2019 - May 2020: High Pressure-High Temperature Physics Researcher – Thesis project	
- * Western University
+  * Western University
   * Duties and Accomplishments included: Designing using Autocad, then machining an innovative cubic cell for high pressure, high temperature experiments. This design will be used for future high pressure and temperature experiments using multi-anvil and cubic-anvil presses. Measured thermal conductivity of an Iron-Nickel alloy and calculated heat flow in the lunar interior.
   * Supervisor: Dr. Secco
 
