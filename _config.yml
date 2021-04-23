@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-Canada"
-title                    : "My Portfolio"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Alex Vanderhoeff"
 description              : &description "Computational Seismology MSc. Student at Western University"
