@@ -1,25 +1,25 @@
 ---
 title: "Neural Networks"
 excerpt: "https://github.com/avand56/Neural-Networks"
-collection: portfolio
+collection: portfolio1
 ---
 
 ---
 title: "Classifiers"
 excerpt: "https://github.com/avand56/Classifiers"
-collection: portfolio
+collection: portfolio2
 ---
 
 ---
 title: "Gorkha Nepal Earthquake Amplification and Signal Processing"
 excerpt: "https://github.com/avand56/Gorkha-Nepal-Earthquake-Amplification-Signal-Processing"
-collection: portfolio
+collection: portfolio3
 ---
 
 ---
 title: "Earthquake and other clustering projects"
 excerpt: "https://github.com/avand56/Earthquake-clustering-algorithms-and-other-cluster-algos"
-collection: portfolio
+collection: portfolio4
 ---
 
 ---
