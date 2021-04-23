@@ -48,14 +48,14 @@ Skills
 Publications
 ======
 * Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies
-[Alex Vanderhoeff Final Thesis.docx](https://github.com/avand56/avand56.github.io/files/6362547/Alex.Vanderhoeff.Final.Thesis.docx)
+  * [Alex Vanderhoeff Thesis](https://github.com/avand56/avand56.github.io/files/6362547/Alex.Vanderhoeff.Final.Thesis.docx)
 
   
 Talks
 ======
 * Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies
   * Given at Western University weekly colloquia, March 23, 2020.
-  * [Thesis presentation - Alex Vanderhoeff.pptx](https://github.com/avand56/avand56.github.io/files/6362520/Thesis.presentation.-.Alex.Vanderhoeff.pptx)
+  * [Thesis presentation at Colloquia](https://github.com/avand56/avand56.github.io/files/6362520/Thesis.presentation.-.Alex.Vanderhoeff.pptx)
   
 Teaching
 ======
