@@ -60,7 +60,7 @@ Talks
 Teaching
 ======
 * ES2232: Exploring the Planets
-* ES2123: The dyanamic Earth
+* ES2123: The Dyanamic Earth
   
 Awards
 ======
