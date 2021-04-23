@@ -17,24 +17,28 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020 - Present: Computational Seismology Research Assistant
+  * Western University
+  * Duties included:  Running numerical simulations to predict earthquake ground motions on SHARCNET, creating neural networks to process dispersion curves.
+  * Supervisor: Dr. Molnar, Dr. Ghofrani
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 - Present: Teaching Assistant
+  * Western University
+  * Duties included: 
+  * Supervisor: Dr. Secco, Dr. Blamey
+
+* Oct 2017 - April 2018: Geophysics Undergraduate Researcher
+  * Western University
+  * Duties included: 
+  * Supervisor: Dr. Molnar
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
+* Linux
+* SQLite
+* GitHub
 
 Publications
 ======
