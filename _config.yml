@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Vanderhoeff"
-  avatar           : 
+  avatar           : "profile.png"
   bio              : "MSc. Geophysics Student at Western University Researching Computational Seismology by Applying Numerical Simulations and Machine Learning"
   location         : "London, Ontario, Canada"
   employer         : "Western University"
