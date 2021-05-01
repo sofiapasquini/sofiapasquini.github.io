@@ -4,6 +4,7 @@ collection: portfolio
 ---
 
 This GitHub repository is the clustering algorithms i have completed for research, interest, and coursework, including:
+
 1) Clustering of Casacadia subduction zone earthquakes, then solely cascadia subduction zone earthquakes directly offshore Vancouver. This is used to classify earthquake rupture mechanism based on epicenter location.
 
 2) A workbook to classify mall shoppers based on their spending. K-means clustering was done to sort the different shoppers into clusters based off their spending. The Elbow method was used to determine the correct amount of clusters needed.
