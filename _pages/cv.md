@@ -12,7 +12,14 @@ redirect_from:
 Education
 ======
 * B.Sc. in Geophysics, Western University, 2020
+  * Honors Specialization.
+  * Dean's List 2017-2020.
+  * Geophysics Gold Medal.
+  * Geophysics Scholarship for excellence.
+  * Major GPA: 3.7.
 * M.Sc. in Geophysics, Western University, 2022 
+  * Collaborative Specialization in Multi-Hazard Risks and Resiliency.
+  * GPA: 3.9.
 
 
 Work experience
