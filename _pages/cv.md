@@ -89,5 +89,5 @@ Awards
 * Gold medal in Geophysics, 2020.
 * WGR Scholarship, 2020-2022.
 
-[Vanderhoeff_Resume.docx](https://github.com/avand56/avand56.github.io/files/6362785/Vanderhoeff_Resume.docx)
+[PDF Resume](http://avand56.github.io/files/Vanderhoeff_Resume.pdf)
 
