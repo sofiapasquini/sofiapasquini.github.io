@@ -90,4 +90,3 @@ Awards
 * WGR Scholarship, 2020-2022.
 
 [PDF Resume](http://avand56.github.io/files/Vanderhoeff_Resume.pdf)
-
