@@ -68,7 +68,7 @@ Skills
 Publications
 ======
 * Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies
-  * [Alex Vanderhoeff Thesis](https://github.com/avand56/avand56.github.io/files/6362547/Alex.Vanderhoeff.Final.Thesis.docx)
+  * [Thesis: Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies](https://avand56.github.io/files/Thermal Conductivity of an FeNi Alloy and Implications for Heat Flow in the Lunar Core.pdf)
 
   
 Talks
