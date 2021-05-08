@@ -1,5 +1,5 @@
 ---
-title: "Shipping and order queryies"
+title: "Shipping and order queries"
 collection: portfolio
 ---
 
