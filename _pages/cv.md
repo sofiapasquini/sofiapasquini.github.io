@@ -72,17 +72,17 @@ Talks
 ======
 * The Cause of Variability in FeLoBAL Quasar SDSS J122933.32+262131.2
   * Given at Western University Undergraduate Thesis colloquia, May 2021.
-  * [Thesis presentation at Colloquia](https://github.com/sofiapasquini/sofiapasquini.github.io/files/6362520/Thesis_presentation.pptx)
+  * [Thesis presentation at Colloquia](https://github.com/sofiapasquini/sofiapasquini.github.io/files/Thesis_presentation.pptx)
 
 * The Cause of Variability in FeLoBAL Quasar SDSS J122933.32+262131.2
 *   Given at the Apache Point Observatory Science Symposium, July 2021
-*    [Thesis presentation at APO Science Symposium]   (https://github.com/sofiapasquini/sofiapasquini.github.com.io/files/6362520/APO Talk.pptx)
+*    [Thesis presentation at APO Science Symposium]   (https://github.com/sofiapasquini/sofiapasquini.github.io/files/APO Talk.pptx)
   
   
 * The Cause of Variability in FeLoBAL Quasar SDSS J122933.32+262131.2
 *  Poster Presentation given at the annual Canadian Astronomical Society AGM (CASCA 2021), May 2021
 *  [Thesis presentation poster at CASCA 2021]
-*  (https://github.com/sofiapasquini/sofiapasquini.github.com.io/files/6362520/CASCA Poster.pptx)
+*  (https://github.com/sofiapasquini/sofiapasquini.github.io/files/CASCA Poster.pptx)
 
 Teaching
 ======
