@@ -11,87 +11,91 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Geophysics, Western University, 2020
-  * Honors Specialization.
+* B.Sc. in Astrophysics with Distinction, Western University, 2021
+  * Honors Specialization in Astrophysics, Minor in Advanced Physics.
   * Major GPA: 3.7.
-* M.Sc. in Geophysics, Western University, 2022 
-  * Collaborative Specialization in Multi-Hazard Risks and Resiliency.
-  * GPA: 3.9.
+* M.Sc. in Astronomy, Western University, 2023
+  * Thesis: "Probing the Photo-Chemical Evolution of Polycyclic Aromatic Hydrocarbons using Machine Learning Techniques."
+  * GPA: 3.97.
 
 
 Work experience
 ======
-* 2020 - Present: Computational Seismology Research Assistant
-  * Western University
-  * As a research fellow for Dr. Sheri Molnar’s research group, I run large finite difference numerical simulations on the SHARCNET supercomputer consortium that simulate the anelastic wave equation and earthquake ground motions. The synthetic time series data are then compared to empirical data and other simulations to estimate the effects of topography, attenuation, source depth, mechanism and location of the earthquake.
-I am also creating a semantic image segmentation convolutional neural network (CNN) to create velocity models of the subsurface from dispersion curves. This could eventually replace the need for dispersion curve picking, reducing bias in shear wave velocity models and eliminating geophysical inversion from this task.
-Duties and Accomplishments Include:
-    * Conducted K-means clustering analysis of historical earthquakes located offshore Vancouver.
-    * Conducted data wrangling and cleaning to convert data into the proper format.
-    * Produced documentation of the earthquake simulation code used.
-    * Ran numerical simulations to determine ground motions from large, deep earthquakes.
-  * Supervisor: Dr. Molnar, Dr. Ghofrani
+* Sept 2022 - April 2023: Data Science Intern
+  * Scotiabank
+  * Working on the International Banking AIML Pricing Team to leverage distributed computing tools for analysis, data mining, and modeling. Applying model and algorithm testing strategies to evaluate and evolve models to drive business value.
 
 
-* 2020 - Present: Teaching Assistant
-  * Western University
-  * Duties and Accomplishments Included: Designing and leading lab sessions teaching students about geophysical surveys and geophysical data processing. This included providing students with tutorials in MS Excel and MATLAB during lab sessions and office hours so that they could use these skills to process and interpret geophysical data. Other responsibilities include correspondence with the students, writing midterm and final exam questions, and marking.
-  * Supervisor: Dr. Secco, Dr. Blamey
+* January 2022 - Present: Data Analyst Intern
+  * Kroll
+  * Duties and accomplishments include: Worked closely with the Data Engineering teams to develop enterprise-grase cloud-based ETL pipeline for client data from business teams; worked in data warehousing in schema design for cross-unit databases. Worked with Data Stewardship/Management team on enterprise-wide data cataloging and compliance efforts. Worked with Data Science teams on the development of a fintech dashboard leveraging data science and machine learning techniqies to gauge market insights; coordinated search for API resources for this tool as well as communicaiton with third-party vendors. I was also happy to lead and participate in machine learning discussions and functional knowledge transfer sessions.
   
   
-* 2014- Present: Sales Associate
-  * FGL Sports Ltd.
-  * Duties Include: Providing service and advice to customers looking to purchase camping equipment, outdoor equipment, footwear and outerwear through knowledge I have acquired from personal endeavors in the outdoors and relevant training in the product technology. 
+* 2021 - Present: Graduate Student Research Fellow
+  * Western Univeristy
+  * Experimentation with diagnostic power of the combination of unsupervised learning (divisive and agglomerative clustering, Random Forest Classifiers) to characterize variability in large carbonaceous grains in space. My use of data from the James Webb Space Telescope will mark this a revolutionary study in the field at the intersection of data science and astrophysics. Publications in development.
+  * Duties Include: Leading first-year physics laboratories and demonstrations in addition to research duties.
+  * Supervisor: Dr. Els Peeters
 
-
-* Sept 2019 - May 2020: High Pressure-High Temperature Physics Researcher – Thesis project	
+* May 2021 - August 2021: High-Energy Black Hole Physics Researcher - Thesis project extension
   * Western University
-  * Duties and Accomplishments Included: Designing using Autocad, then machining an innovative cubic cell for high pressure, high temperature experiments. This design will be used for future high pressure and temperature experiments using multi-anvil and cubic-anvil presses. Measured thermal conductivity of an Iron-Nickel alloy and calculated heat flow in the lunar interior.
-  * Supervisor: Dr. Secco
-
-
-* Oct 2017 - April 2018: Geophysics Undergraduate Researcher
+  * Fitting multi-epoch energy distributions in various wavelength regimes for ultra-luminous, high-energy quasars using novel software package, SimBAL, in addition to Python packages in order to fully constrain outflow and quasar properties. Building the foundation of a dynamical model to probe the relationship between quasar outflows and host galaxy evolution.
+  * Supervisor: Dr. Sarah Gallagher
+  
+* May 2019 - April 2021: Black Hole and Interstellar Object Physics Researcher – Thesis project	
   * Western University
-  * Duties and Accomplishments Included: Contributed to the development of a geodatabase of geophysical data for the Vancouver project. I extracted data from old geophysical and geotechnical surveys and created csv files of this data, having to read and interpret the results. The data was then uploaded to the SQL geodatabase using SQLite. This data was used to create 3D models of the subsurface.
-  * Supervisor: Dr. Molnar
+  * Wrote a collection of Python ETL scripts in order to successfully mine and process large amounts of astronomical data from online databases such as NED and SDSS. These data were organized using a tool of my own creation central to the search for variability in the high-energy quasars observed. Using a nnovel softwarre package, SimBAL, in order ot fit multi-epoch spectra of a confirmed variable "FeLoBAL Quasar" in order to contrain a physical, dynamical model of its powerful mass outflow through this complex time-domain variability study.
+  * Organization of large amounts of data retrieved from the SIMBAD database using a series of my own SQL scripts in an effort to contrain the spatial origins of interstellar objects and their trajectories through space using numerical simulations.
+  * Used the Gemini-IRAF software to successfully organize a data reduction (ETL) pipeline for energy distribution data for a neaby powerful Active Galactic Nucleus. Completion of the reduction of this large astronomical dataset following dvelopment of pipeline itself.
+  * Supervisor: Dr. Sarah Gallagher
   
   
 Skills
 ======
-* Python
+* Python ( Pandas, Numpy, Astropy, SciPy, Scikit-Learn, Matplotlib, Tensorflow, Keras, PyTorch, Sherpa, Seaborn)
 * MATLAB
-* Linux
-* SQLite
-* GitHub
-* TensorFlow, Keras, Pytorch, SKlearn, Numpy, Pandas
-* MS Excel, Word, and Powerpoint
-* Tableau
+* R
+* SQL (MySQL, PostgreSQL, SQLite)
+* Git 
+* Linux, Mac, Windows OS
+* Microsoft Azure (AZ-900 Azure, DP-900 Data, DP-203 Data Engineering Certifications)
+* Microsoft Suite
 
 
 Publications
 ======
-* Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies
-  * [Thesis: Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies](https://avand56.github.io/files/Thermal Conductivity of an FeNi Alloy and Implications for Heat Flow in the Lunar Core.pdf)
+* The Cause of Variability in FeLoBAL Quasar SDSS J122933.32+262131.2
+  * [Thesis: The Cause of Variability in FeLoBAL Quasar SDSS J122933.32+262131.2](https://sofiapasquini.github.io/files/Thesis Project.pdf)
 
   
 Talks
 ======
-* Thermal Conductivity of an Fe-Ni Alloy and Implications for Heat Flow in the Cores of Terrestrial Bodies
-  * Given at Western University weekly colloquia, March 23, 2020.
-  * [Thesis presentation at Colloquia](https://github.com/avand56/avand56.github.io/files/6362520/Thesis.presentation.-.Alex.Vanderhoeff.pptx)
+* The Cause of Variability in FeLoBAL Quasar SDSS J122933.32+262131.2
+  * Given at Western University Undergraduate Thesis colloquia, May 2021.
+  * [Thesis presentation at Colloquia](https://github.com/sofiapasquini/sofiapasquini.github.io/files/6362520/Thesis_presentation.pptx)
+
+* The Cause of Variability in FeLoBAL Quasar SDSS J122933.32+262131.2
+*   Given at the Apache Point Observatory Science Symposium, July 2021
+*    [Thesis presentation at APO Science Symposium]   (https://github.com/sofiapasquini/sofiapasquini.github.com.io/files/6362520/APO Talk.pptx)
   
+  
+* The Cause of Variability in FeLoBAL Quasar SDSS J122933.32+262131.2
+*  Poster Presentation given at the annual Canadian Astronomical Society AGM (CASCA 2021), May 2021
+*  [Thesis presentation poster at CASCA 2021]
+*  (https://github.com/sofiapasquini/sofiapasquini.github.com.io/files/6362520/CASCA Poster.pptx)
 
 Teaching
 ======
-* ES2232: Exploring the Planets
-* ES2123: The Dyanamic Earth
+* Physics 1201A: First-Year Physics I and Physics Laboratories
+* Physics 1202B: First-Year Physics II and Physics Laboratories
   
   
 Awards
 ======
-* Dean's list: 2017-2020
-* Geophysics Scholarship for excellence: 2018.
-* Gold medal in Geophysics, 2020.
-* WGR Scholarship, 2020-2022.
+* Dean's honor list: 2017-2021.
+* The Western Scholarship of Distinction, 2017.
+* Dr. Gerard Hebert Scholarship in Physics, 2020.
+* Maude Holt Kingston Gold Medal- Honors Specialization in Astronomy, 2021.
+* Western Graduate Research Scholarship- Astronomy, 2021-2023.
 
-[PDF Resume](http://avand56.github.io/files/Vanderhoeff_Resume.pdf)
+[PDF Resume](http://sofiapasquini.github.io/files/Pasquini_Resume.pdf)
