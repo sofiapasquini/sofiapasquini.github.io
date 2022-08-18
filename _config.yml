@@ -9,11 +9,11 @@
 locale                   : "en-Canada"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Alex Vanderhoeff"
-description              : &description "Computational Seismology MSc. Student at Western University"
-url                      : https://avand56.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sofia Pasquini"
+description              : &description "Astronomy and Machine Learning MSc. Student at Western University"
+url                      : https://sofiapasquini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "avand56/avand56.github.io"
+repository               : "sofiapasquini/sofiapasquini.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Vanderhoeff"
+  name             : "Sofia Pasquini"
   avatar           : "profile.png"
-  bio              : "MSc. Geophysics Student at Western University Researching Computational Seismology by Applying Numerical Simulations and Machine Learning"
+  bio              : "MSc. Geophysics Student at Western University Researching Variability in Large Carbon Molecules in Space using JWST data and Machine Learning techniques."
   location         : "London, Ontario, Canada"
   employer         : "Western University"
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "spasquin@uwo.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "avand56"
+  github           : "sofiapasquini"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "alex-vanderhoeff"
+  linkedin         : "sofia-pasquini"
   orcid            : 
   pinterest        :
   soundcloud       :
