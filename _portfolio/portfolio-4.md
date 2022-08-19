@@ -1,6 +1,6 @@
 ---
-title: "Discount Cash Flow Model with Web Scraping from Yahoo Finance"
+title: "Numerical Simulation to Solve Lane-Emden Equation."
 collection: portfolio
 ---
 
-This repository contains a Monte Carlo discounted cash flow model (DCFM) to estimate fair market value of a security. The code also has a web scraper to retreive financial statement data from Yahoo Finance. The DCFM also will output a distribution of prices that are deemed fair based on the model and the current risk free rate of return. [Click here](https://github.com/avand56/Discount-Cash-flow_with-monte-carlo-and-web-scraping) to view this repository.
+I use a system of ordinary differential equations and a second-order Runge-Kutta integration scheme in order to numerically simulate the physical equation of state describing the interior structure of a stellar body. I solve the Lane-Emden equation for the solutions of order n=1.5, 3, 3.5, though this value can be altered to higher dimension for further exploration. [Click here](https://github.com/sofiapasquini/RK-Solve-Lane-Emden) to view this repository.
