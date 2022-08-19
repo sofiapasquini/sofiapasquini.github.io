@@ -1,8 +1,7 @@
 ---
-title: "Coronary Heart Disease (CHD) Classifier"
+title: "Consumer Activity Clustering"
 collection: portfolio
 ---
 
-A Repository of several neural networks and a logistic regression to predict whether a patient will develop CHD within the next 10 years or not. [Click here](https://github.com/avand56/CHD_Classifier)
-to see this repository.
+I use clustering (K-Means) in order to segment a consumer demographic based on Recency, Frequency and Monetary Value in order to improve quanitative marketing strategies of a business and to develop commercial strategies for a given company for which this data is available. [Click here](https://github.com/sofiapasquini/Consumer-Activity-Clustering)to see this repository.
 
