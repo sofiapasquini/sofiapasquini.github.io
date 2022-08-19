@@ -1,14 +1,9 @@
 ---
-title: "Earthquake, Mall Shopping, and Comic Book Store Customer Clustering Analysis"
+title: "Probing Evolution of Carbonaceous Molecules Using Clustering Analyses"
 collection: portfolio
 ---
 
-This GitHub repository is the clustering algorithms i have completed for research, interest, and coursework, including:
+An exploration of the efficacy of clustering analyses on astronomical data (with observations from Spitzer and James Webb Space Telescopes) I perform for my M.S.c research. I hope to understand the mechnism of the evolution of stable, carbonaceous molecules in high-energy star-forming regions by analyzing key stratifications in emission properties from these molecules on various spatial and wavelength scales.
 
-1) Clustering of Casacadia subduction zone earthquakes, then solely cascadia subduction zone earthquakes directly offshore Vancouver. This is used to classify earthquake rupture mechanism based on epicenter location.
 
-2) A workbook to classify mall shoppers based on their spending. K-means clustering was done to sort the different shoppers into clusters based off their spending. The Elbow method was used to determine the correct amount of clusters needed.
-
-3) A workbook to cluster customers at a comic book store based on their recency, monetary value, cost of service, and frequency. These customers were clustered into 5 groups based on this data, with specific recommendations to increase value of these interactions for each of these 5 types of customers.
-
-To see this repository containing these projects, [Click here](https://github.com/avand56/Earthquake-clustering-algorithms-and-other-cluster-algos).
+To see this repository [Click here](https://github.com/sofiapasquini/PAH-revolution).
