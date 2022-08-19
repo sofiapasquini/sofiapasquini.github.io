@@ -1,8 +1,6 @@
 ---
-title: "House Price Predictions_Excel_MLS data"
+title: "Sentiment Analyis Application: IMDB Reviews"
 collection: portfolio
 ---
 
-Contains an Excel file with data gathered from the MLS database of home and condo lease and purchase prices in Toronto. This file looks at price increases with different number of features. A pivot table was created and the data was plotted then fit using a linear function and a second order polynomial function.
-
-[Click here](https://github.com/avand56/House-price-predictions) to see this repository.
+I use dimensionality reduction techniques (PCA, Autoencoding) in order to analyse and predict the sentiment in a set of reviews from the Internet Movie Database (sentiments originally labelled by humans). I explore and compare the predictive performances of dimensionally-reduced input using Partial Component Analysis and Autoencoding. [Click here](https://github.com/sofiapasquini/IMDB-Sentiment-Analysis) to see this repository.
