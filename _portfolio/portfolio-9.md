@@ -1,8 +1,6 @@
 ---
-title: "Shipping and order queries"
+title: "Multi-modal CNN"
 collection: portfolio
 ---
 
-Contains an SQL file created in [w3schools.com](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all) SQL database of shipping and order information. The queries were simple joins and group by commands to access different database information.
-
-[Click here](https://github.com/avand56/SQL-Query/blob/main/Shipping%20and%20order%20info.sql) to see this repository.
+I explore multi-modal learning using a Convolutional Neural Network to predict housing prices based on numeric property descriptors as well as images of the interior/exterior of the house. I employ a grid search functionality in order to tune and assess effects of various hyperparameter combinations. [Click here](https://github.com/sofiapasquini/Housing-Market-CNN) to see this repository.
